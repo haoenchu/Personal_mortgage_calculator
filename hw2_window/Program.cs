@@ -13,7 +13,7 @@ namespace hw2_window {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new mortgage_calculator());
         }
     }
 }
