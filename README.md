@@ -48,3 +48,5 @@
 年限：30 年<br>
 寬限期：5 年<br>
 *預期結果：貸款金額 1,000 萬，寬限期月付約 18,333 元。*
+<img width="800" height="650" alt="image" src="https://github.com/user-attachments/assets/31804373-eba9-4b1b-b743-6dd41800b996" />
+
